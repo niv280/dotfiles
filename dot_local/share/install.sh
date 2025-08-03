@@ -8,6 +8,7 @@ sudo apt install -y \
   vim \
   tmux \
   neovim \
+  zoxide \
   build-essential
 
 # install starship

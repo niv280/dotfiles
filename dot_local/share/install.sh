@@ -7,7 +7,7 @@ sudo apt install -y \
   git \
   vim \
   tmux \
-  nvim \
+  neovim \
   build-essential
 
 # install starship

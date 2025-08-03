@@ -8,8 +8,10 @@ sudo apt install -y \
   vim \
   tmux \
   nvim \
-  starship \
   build-essential
+
+# install starship
+curl -sS https://starship.rs/install.sh | sh
 
 # install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
